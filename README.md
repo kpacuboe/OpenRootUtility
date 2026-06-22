@@ -21,3 +21,18 @@ chmod +x openroot
 ./openroot
 ```
 
+## Установка
+
+```bash
+git clone git@github.com:kpacuboe/OpenRootUtility.git
+cd OpenRootUtility
+
+chmod +x install.sh
+./install.sh
+```
+
+После установки:
+
+```bash
+openroot
+```
