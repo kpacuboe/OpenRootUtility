@@ -24,7 +24,7 @@ chmod +x openroot
 ## Установка
 
 ```bash
-git clone git@github.com:kpacuboe/OpenRootUtility.git
+git clone git@github.com:robloxtourist/OpenRootUtility.git
 cd OpenRootUtility
 
 chmod +x install.sh
